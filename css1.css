@@ -43,6 +43,9 @@ span {
 	text-align: center;
 	position: relative;
 	font-size: 22px;
-
-
+}
+nav {
+	width: 75%;
+	text-align: center;
+	margin: 0px auto;
 }
