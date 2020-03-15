@@ -42,7 +42,7 @@ span {
 	display: inline-block;
 	text-align: center;
 	position: relative;
-	font-size: 22px;
+	padding: 12px 50px;
 }
 nav {
 	width: 75%;
