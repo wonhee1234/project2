@@ -29,29 +29,39 @@ h1{
 	font-family: 'Roboto Mono', monospace;
 }
 
-.font2{
-	font-family: 'Ubuntu', sans-serif;
+p {
+	font-family: Consolas, sans-serif;
 }
+
 table{
 	background-color: #b0e0e6;
 	text-align: center;
 	margin: auto;
 	font-family: 'Roboto Mono', monospace;
 }
+
 table, tr, td{
 	border-collapse:collapse;
 	border:solid 1px #000000;
 }
+
 td{
 	width:200px;
 	height:300px;	
 }
+
 div.container{
 	margin: 0 auto 0;
 }
+
 .blue{
 	color: #4169E1;
 }
-p {
-	font-family: Consolas, sans-serif;
+
+.font2{
+	font-family: 'Ubuntu', sans-serif;
 }
+#video {
+	width: 20%;
+}
+
