@@ -44,7 +44,7 @@ table{
 }
 
 table, tr, td{
-	border-collapse:collapse;
+	border-collapse: collapse;
 	border:solid 1px #000000;
 }
 
