@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Sen|Ubuntu&display=swap');
+
 body{
 	font-family: 'Sen', sans-serif;
 }
@@ -22,9 +24,11 @@ nav {
 h3{
 	background-color: #00BFFF;
 }
+
 h1{
 	font-family: 'Roboto Mono', monospace;
 }
+
 .font2{
 	font-family: 'Ubuntu', sans-serif;
 }
@@ -47,4 +51,7 @@ div.container{
 }
 .blue{
 	color: #4169E1;
+}
+p {
+	font-family: 'Ubuntu', sans-serif;
 }
